@@ -1,0 +1,1 @@
+Place additional images in this directory.
